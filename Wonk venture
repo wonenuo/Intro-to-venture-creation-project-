@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DriveLink Ghana</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: #f5f5f5;
+        }
+        header {
+            background: #0a0a0a;
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        nav {
+            background: #222;
+            padding: 12px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            background: white;
+            margin: 15px;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        h2 {
+            color: #222;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        footer {
+            background: #0a0a0a;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>DriveLink Ghana</h1>
+    <p>Connecting Car Buyers & Sellers the Smart Way</p>
+</header>
+
+<nav>
+    <a href="#home">Home</a>
+    <a href="#journey">Journey</a>
+    <a href="#solution">Solution</a>
+    <a href="#prototype">Prototype</a>
+    <a href="#reflection">Reflection</a>
+</nav>
+
+<section id="home">
+    <h2>Homepage</h2>
+    <p><strong>Title:</strong> DriveLink Ghana</p>
+    <p><strong>Tagline:</strong> Fast. Trusted. Hassle-Free Car Deals.</p>
+    <p>
+        DriveLink Ghana is a car brokerage platform that helps individuals buy and sell cars quickly without stress.
+        We connect serious buyers with verified sellers and help negotiate the best deals.
+    </p>
+</section>
+
+<section id="journey">
+    <h2>Entrepreneurial Journey</h2>
+    
+    <p><strong>Problem:</strong> Selling cars in Ghana is slow and stressful. Many sellers struggle to find serious buyers, and buyers often fear scams or overpriced vehicles.</p>
+    
+    <p><strong>Audience Pain Points:</strong></p>
+    <ul>
+        <li>Cars stay unsold for months</li>
+        <li>Too many unserious buyers</li>
+        <li>Lack of trust in online car deals</li>
+        <li>Difficulty pricing cars correctly</li>
+    </ul>
+
+    <p><strong>Research Validation:</strong> Through observation and real-life experience, many car owners have been trying to sell their cars for months without success. Platforms like Facebook Marketplace are crowded but inefficient.</p>
+</section>
+
+<section id="solution">
+    <h2>Solution</h2>
+    
+    <p>
+        DriveLink Ghana acts as a middleman that markets cars professionally, connects sellers to real buyers,
+        and earns commission from successful deals.
+    </p>
+
+    <p><strong>Features:</strong></p>
+    <ul>
+        <li>Professional car listings with quality photos</li>
+        <li>Targeted marketing beyond just Facebook</li>
+        <li>Negotiation support for both parties</li>
+        <li>Verified buyers and sellers</li>
+    </ul>
+
+    <p><strong>Beneficiaries:</strong></p>
+    <ul>
+        <li>Car owners who want to sell fast</li>
+        <li>Buyers looking for trusted deals</li>
+        <li>Car dealers needing more exposure</li>
+    </ul>
+
+    <p><strong>Unique Selling Points:</strong></p>
+    <ul>
+        <li>Focus on serious buyers only</li>
+        <li>Faster sales compared to traditional platforms</li>
+        <li>Local market expertise (Ghana-focused)</li>
+        <li>Commission-based (no upfront risk)</li>
+    </ul>
+</section>
+
+<section id="prototype">
+    <h2>Prototype</h2>
+    
+    <p><strong>Initial Idea:</strong> Start as a personal car broker using WhatsApp, social media, and contacts.</p>
+
+    <p><strong>Development Milestones:</strong></p>
+    <ul>
+        <li>Phase 1: List cars from friends and contacts</li>
+        <li>Phase 2: Promote cars on multiple platforms</li>
+        <li>Phase 3: Build a simple website (this one)</li>
+        <li>Phase 4: Launch a full marketplace platform</li>
+    </ul>
+
+    <p>Future versions will include a full website where users can list and browse cars directly.</p>
+</section>
+
+<section id="reflection">
+    <h2>Reflection and Future Plans</h2>
+
+    <p><strong>Challenges:</strong></p>
+    <ul>
+        <li>Competition from many informal brokers</li>
+        <li>Building trust with new customers</li>
+        <li>Limited marketing budget</li>
+    </ul>
+
+    <p><strong>Lessons Learned:</strong></p>
+    <ul>
+        <li>Networking is key in selling cars</li>
+        <li>Presentation (photos & pricing) matters a lot</li>
+        <li>Trust builds sales</li>
+    </ul>
+
+    <p><strong>Future Goals:</strong></p>
+    <ul>
+        <li>Launch a full car listing website/app</li>
+        <li>Partner with car dealers across Ghana</li>
+        <li>Introduce inspection and verification services</li>
+        <li>Scale into a nationwide platform</li>
+    </ul>
+</section>
+
+<footer>
+    <p>© 2026 DriveLink Ghana | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
